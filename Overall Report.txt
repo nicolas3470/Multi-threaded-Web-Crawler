@@ -1,0 +1,7 @@
+Overall Crawl Report
+
+Starting URL: http://dmoz.org/
+Crawlers created: 8
+Indexers created: 4
+Invalid URLs sent to crawlers: 0
+Web pages crawled and indexed: 30
